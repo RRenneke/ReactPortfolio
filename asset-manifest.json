@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.277f8883.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.277f8883.chunk.js.map",
+    "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.0a9f30e1.js",
+    "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.0a9f30e1.js.map",
+    "static/js/2.a3a8bee7.chunk.js": "/ReactPortfolio/static/js/2.a3a8bee7.chunk.js",
+    "static/js/2.a3a8bee7.chunk.js.map": "/ReactPortfolio/static/js/2.a3a8bee7.chunk.js.map",
+    "static/js/3.a8eeed96.chunk.js": "/ReactPortfolio/static/js/3.a8eeed96.chunk.js",
+    "static/js/3.a8eeed96.chunk.js.map": "/ReactPortfolio/static/js/3.a8eeed96.chunk.js.map",
+    "index.html": "/ReactPortfolio/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/ReactPortfolio/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.a3a8bee7.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.a3a8bee7.chunk.js.LICENSE.txt",
+    "static/media/Animal.30b7f75d.jpg": "/ReactPortfolio/static/media/Animal.30b7f75d.jpg",
+    "static/media/Cycling.e96a9c0a.jpg": "/ReactPortfolio/static/media/Cycling.e96a9c0a.jpg",
+    "static/media/RobinRennekeResume.bfdf5418.pdf": "/ReactPortfolio/static/media/RobinRennekeResume.bfdf5418.pdf",
+    "static/media/Winter.c8a5ddad.jpg": "/ReactPortfolio/static/media/Winter.c8a5ddad.jpg",
+    "static/media/logo.6ce24c58.svg": "/ReactPortfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a9f30e1.js",
+    "static/js/2.a3a8bee7.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.277f8883.chunk.js"
+  ]
+}
