@@ -1,0 +1,43 @@
+[{
+    "link":"https://rrenneke.github.io/Just-A-Few-Brews-Finder/",
+    "image":"assets/brewFinderImage.png",
+    "imageAlt": "BrewFinder",
+    "title": "BrewFinder",
+    "description":"In this group project, we created a site, intended for a mobile user, where the user can enter a city, state, or zip code to find a brewery matching that criteria. The site also has a Kanye West influence."
+},
+{
+    "link":"https://rrenneke.github.io/Work-Day-Scheduler/",
+    "image":"assets/workDaySchedulerImage.png",
+    "imageAlt": "Work Day Scheduler",
+    "title": "Work Day Scheduler",
+    "description":"In the workday hourly scheudler I created a site that allows the user to enter their daily tasks for each work day hour. The color of the line will change as the hour passes, is present, or is in the future."
+},
+{
+    "link":"https://rrenneke.github.io/codeRefactor/",
+    "image":"assets/codeRefactorImage.png",
+    "imageAlt": "Code Refactoring Project",
+    "title": "Code Refactoring Project",
+    "description":"In the code refactoring project I updated existing code to make it semantically correct and the site more user friendly.The site is also responsive with a working navigation bar."
+},
+{
+    "link":"https://ancient-shelf-36341.herokuapp.com/",
+    "image":"assets/mindfulProjectsPage.png",
+    "imageAlt": "Mindful:Project Managment",
+    "title": "Mindful:Project Managment",
+    "description":"In this group project we build a website that helps track projects. Users create an account, enter and track projects, and enter and track tasks associated with each project."
+},
+{
+    "link":"https://rrenneke.github.io/weatherDashboard/",
+    "image":"assets/DashboardScreenShot.png",
+    "imageAlt": "Weather Finder",
+    "title": "Weather Finder",
+    "description":"In this project we created a user interace that allows the use to enter thier chity and the 5 day forcast for that city."
+},
+{
+    "link":"https://eatdaburgertracker.herokuapp.com/",
+    "image":"assets/BurgerScreenShot.png",
+    "imageAlt": "Burger Logger",
+    "title": "Burger Logger",
+    "description":"In this project we created a restaurant app that lets users input the names of burgers they'd like to eat. User can submit a burger's name that is waiting to be devoured or has been devoured. The user can also move the burgers from one category to another."
+}
+]
