@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import {BrowserRouter as Router, Route} from "react-router-dom";
+import {BrowserRouter as Router, Route, Switch} from "react-router-dom";
 import homePage from "./pages/home";
 import portfolioPage from "./pages/portfolio";
 import contactPage from "./pages/contact";
@@ -13,10 +13,12 @@ function App() {
      <Router>
        <Nav />
        <Header />
+       <Switch>
        <Route exact path="/" component={homePage} />
        <Route exact path="/home" component={homePage} />
        <Route exact path="/portfolio" component={portfolioPage} />
        <Route exact path="/contact" component={contactPage} />
+       </Switch>
        <Footer />
      </Router>
   );
