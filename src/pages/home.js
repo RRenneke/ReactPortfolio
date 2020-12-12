@@ -9,15 +9,15 @@ function homePage() {
                         <div className="row">
                             
                             <div className="col-md-4">
-                            <img src="../assets/Winter.jpg" alt="WinterImage" className="img-thumbnail" />
+                            <img src={require ("./Winter.jpg")} alt="Winter Image"/>
                             </div>
                             
                             <div className="col-md-4">
-                            <img src="assets/Animal.jpg" alt="AnimalImage" className="img-thumbnail" />
+                            <img src="../public/assets/Animal.jpg" alt="AnimalImage" className="img-thumbnail" />
                             </div>
                             
                             <div className="col-md-4">
-                            <img src="assets/Cycling.jpg" alt="CyclingImage" className="img-thumbnail" />
+                            <img src="../public/assets/Cycling.jpg" alt="CyclingImage" className="img-thumbnail" />
                             </div>
                         </div>
                     </div>
