@@ -10,7 +10,7 @@
     "image":"assets/workDaySchedulerImage.png",
     "imageAlt": "Work Day Scheduler Image with Link",
     "title": "Work Day Scheduler",
-    "description":"In the workday hourly scheudler I created a site that allows the user to enter their daily tasks for each work day hour. The color of the line will change as the hour passes, is present, or is in the future."
+    "description":"In the workday hourly scheduler I created a site that allows the user to enter their daily tasks for each work day hour. The color of the line will change as the hour passes, is present, or is in the future."
 },
 {
     "link":"https://rrenneke.github.io/codeRefactor/",
@@ -22,8 +22,8 @@
 {
     "link":"https://ancient-shelf-36341.herokuapp.com/",
     "image":"assets/mindfulProjectsPage.png",
-    "imageAlt": "Mindful:Project Managment Image with Link",
-    "title": "Mindful:Project Managment",
+    "imageAlt": "Mindful:Project Management Image with Link",
+    "title": "Mindful:Project Management",
     "description":"In this group project we build a website that helps track projects. Users create an account, enter and track projects, and enter and track tasks associated with each project."
 },
 {
@@ -31,13 +31,13 @@
     "image":"assets/DashboardScreenShot.png",
     "imageAlt": "Weather Finder Image with Link",
     "title": "Weather Finder",
-    "description":"In this project we created a user interace that allows the use to enter thier chity and the 5 day forcast for that city."
+    "description":"In this project, I created a user interface that allows the user to enter their city and will be provided the 5 day forecast."
 },
 {
     "link":"https://eatdaburgertracker.herokuapp.com/",
     "image":"assets/BurgerScreenShot.png",
     "imageAlt": "Burger Logger Image with Link",
     "title": "Burger Logger",
-    "description":"In this project we created a restaurant app that lets users input the names of burgers they'd like to eat. User can submit a burger's name that is waiting to be devoured or has been devoured. The user can also move the burgers from one category to another."
+    "description":"In this project we created a restaurant app that lets users input the names of burgers they'd like to eat. Users can submit a burger's name that is waiting to be devoured or has been devoured. The user can also move the burgers from one category to another."
 }
 ]
